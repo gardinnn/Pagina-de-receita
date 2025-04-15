@@ -35,20 +35,38 @@ img{
     border-radius: 16px;
 }
 
+main{
+    padding: 24px;
+}
+
 h1{
-    color: #291B1A ;
     font-size: 2em;
+    background-image: linear-gradient(to left, #573824, #F0E8C2);
+    
 }
 
 h2{
-    color: #291B1A ;
     font-size: 1.5em;
+    background-image: linear-gradient(to left, #573824, #F0E8C2);
+}
+
+h1, h2{
+    margin-bottom: 4px;
+    color: #291B1A ;
+    line-height: 150%;
 }
 
 p, li{
     color: #573A37;
 }
 
+ul{
+    padding-left: 24px;
+}
+
 footer{
     text-align: center;
+    color: #291B1A;
+    padding-bottom: 48px;
+    
 }
