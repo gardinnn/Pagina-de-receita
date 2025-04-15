@@ -14,6 +14,8 @@ text colors
 
 */
 
+
+
 body{
     font-family: "Alice", serif;
     background-image: url(bg-image.png);
@@ -31,6 +33,20 @@ body{
 
 img{
     border-radius: 16px;
+}
+
+h1{
+    color: #291B1A ;
+    font-size: 2em;
+}
+
+h2{
+    color: #291B1A ;
+    font-size: 1.5em;
+}
+
+p, li{
+    color: #573A37;
 }
 
 footer{
